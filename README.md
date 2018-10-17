@@ -1,5 +1,5 @@
 # hello-world
-A starting repository
+(A starting repository.)
 
 Hello everyone!
 
